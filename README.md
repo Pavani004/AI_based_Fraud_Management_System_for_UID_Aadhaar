@@ -2,7 +2,7 @@
 
 ![Project Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxp3boQ_bYvCBCvWLwqe-5g3YksR4_mchZA&s)
 
-## This project was made under Infosys Sringboard Internship 5.0 intiative by Infosys Springboard under mentor guidance
+## This project was made under Infosys Sringboard Internship 5.0 initiative by Infosys Springboard under mentor guidance
 
 ## Table of Contents
 1. [Introduction](#introduction)
