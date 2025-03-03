@@ -84,3 +84,8 @@ This project was developed as part of the **Infosys Springboard Internship** to 
 
 ## License  
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
+
+## Screenshots
+![Image](https://github.com/user-attachments/assets/aaf47120-1405-48ea-8a95-95b5a90af5c3)
+fig. Landing Page
+
