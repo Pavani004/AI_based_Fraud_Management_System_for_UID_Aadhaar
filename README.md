@@ -1,10 +1,8 @@
 # AI-based Fraud Management System for UID Aadhar
 
 ![Project Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxp3boQ_bYvCBCvWLwqe-5g3YksR4_mchZA&s)
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRxp3boQ_bYvCBCvWLwqe-5g3YksR4_mchZA&s" alt="Project Logo">
-</p>
 
+## This project was made under Infosys Sringboard Internship 5.0 intiative by Infosys Springboard under mentor guidance
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -82,10 +80,16 @@ This project was developed as part of the **Infosys Springboard Internship** to 
 🚀 **Cloud Deployment**: Deploy the system on **cloud platforms** for wider accessibility.  
 🚀 **Integration with Government Databases**: Enable **real-time verification** with official databases.  
 
+## 📸 Screenshots  
+
+### 🔹 Landing Page  
+![Landing Page](https://github.com/user-attachments/assets/aaf47120-1405-48ea-8a95-95b5a90af5c3)  
+
+### 🔹 Home Page  
+![Home Page](https://github.com/user-attachments/assets/bd5b3073-f3b7-4297-a18d-aea34d961d98)  
+
+### 🔹 Workflow  
+![Workflow](https://github.com/user-attachments/assets/94452541-3f6e-40b6-b8d8-48fdbd3f469f)  
+
 ## License  
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
-
-## Screenshots
-![Image](https://github.com/user-attachments/assets/aaf47120-1405-48ea-8a95-95b5a90af5c3)
-fig. Landing Page
-
